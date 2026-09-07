@@ -34,9 +34,7 @@ Now, I bring these principles to legged robotics and biomedical hardware. As RL 
 
 ### Biomedical Robotics | Extracorporeal Life Support Lab
 *Undergraduate Researcher | Sept 2024 – April 2025*
-* Implemented a C++ embedded temperature control system (thermistors + PID feedback) for Roll-to-Roll fabrication of wearable artificial lung prototypes for end-stage COPD patients.
-* Resolved critical hardware-software integration issues, doubling fabricated lung membrane thickness while reducing defect rates.
-* Contributed to CAD design, soldering, 3D printing, and testing of microfluidic artificial lungs; attended medical lectures and observed live animal transplant surgeries.
+* Hardware-Software Integration: Implemented C++ embedded temperature control (thermistors + PID feedback) for wearable artificial lung prototypes, doubling fabricated thickness with fewer defects.
 * **Tech Stack:** C++, Arduino, Embedded Systems, PID Control, CAD, 3D Printing, Soldering, Thermistors, Microfluidics
 
 ### Autonomous Navigation | UMARV Robotics Team
