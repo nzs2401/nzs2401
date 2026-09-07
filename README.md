@@ -17,11 +17,12 @@ Now, I bring these principles to legged robotics and biomedical hardware. As RL 
 
 ## Research & Technical Experience
 
-### Humanoid Robotics | Michigan Wolverbots (RoboCup)
+### RL Engineer & Subteam Lead (2026) | Michigan Wolverbots (RoboCup)
 *RL Subteam Lead | Jan 2026 – Present*
-* Re-engineered humanoid URDF to stabilize simulation dynamics in MuJoCo, enabling policy training in Isaac Lab.
-* Implemented fall-recovery RL policies in Isaac Lab across diverse orientations; developing evaluation frameworks for velocity and postural stability.
-* Engineered sim-to-real transfer logic bridging Isaac Lab physics and physical hardware using motor controllers and Pypot.
+* Diagnosed and rebuilt our humanoid's broken URDF model from scratch, re-authoring every joint link and component connection to stabilize the simulation.
+* Calibrated motor controllers and tuned real-time torque output on the physical robot.
+* Currently training RL-based fall-recovery and locomotion policies in Isaac Lab across a range of orientations, working toward transferring these learned policies onto physical hardware.
+
 * **Tech Stack:** Isaac Lab, Isaac Sim, MuJoCo, Python, URDF, ROS2, RViz, Pypot, Motor Controllers
 
 ### GPU-Accelerated Sonar Simulation | Field Robotics Group (FRoG Lab)
