@@ -27,10 +27,9 @@ Now, I bring these principles to legged robotics and biomedical hardware. As RL 
 
 ### GPU-Accelerated Sonar Simulation | Field Robotics Group (FRoG Lab)
 *Undergraduate Researcher | May 2025 – April 2026* | [[Video Demos]](https://drive.google.com/drive/folders/1zUd_xFvGQYKB1XT0i2nqObynq0LG5asB?usp=sharing)
-* Built GPU-accelerated acoustic imaging pipeline with custom CUDA/Warp kernels for real-time ray-tracing performance in NVIDIA Isaac Sim.
-* Designed terrain-aware echo modeling and beam pattern generation using PhysX and OpenUSD.
-* Created procedural underwater terrain generator with PyTorch, VGG-19 Neural Style Transfer, and SDG for synthetic dataset creation.
-* Co-authored publication submitted to OCEANS 2026; set up Docker containerized environments and collaborative Git workflows (PRs).
+* SONAR SIMULATION (Summer 2025, UROP): Extended the open-source OceanSim underwater robotics simulation framework, building a GPU-accelerated side-scan sonar simulator in NVIDIA Isaac Sim using custom CUDA kernels, PhysX, and Warp to model acoustic beam patterns and ray-tracing — replicating complex underwater acoustic physics without costly at-sea testing. Validated against real-world shipwreck sonar imagery. Co-author, IEEE OCEANS 2026 (OceanSim 2.0). 2025 Summer STEM Fellowship
+* TERRAIN SYNTHESIS (Fall 2025, ROB 490): Engineered a Synthetic Data Generation (SDG) pipeline using PyTorch, VGG-19 Neural Style Transfer, and parametric Perlin noise to simulate natural seafloor textures and irregularities learned from real sonar datasets, bridging the sim-to-real gap for underwater perception systems.
+* Implemented ROS-to-ROS2 node bridge for simulation interoperability.
 * **Tech Stack:** NVIDIA Isaac Sim, CUDA, Warp, PhysX, OpenUSD, PyTorch, VGG-19, SDG, Docker, Git
 
 ### Biomedical Robotics | Extracorporeal Life Support Lab
