@@ -3,15 +3,18 @@
 [![LinkedIn](https://img.shields.org/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nsieh/)
 **Robotics Engineering Student | University of Michigan**
 
-I'm a Robotics Engineering student at the University of Michigan focused on the intersection of simulation, reinforcement learning, biomechanics, and physical robot behavior.
+I'm a Robotics Engineering student at the University of Michigan building full-stack robotics systems, from perception and simulation through control, hardware, and deployment.
+Perception & Simulation (UMich Field Robotics Group): Extended the open-source OceanSim framework with a GPU-accelerated sonar simulator (custom CUDA kernels, PhysX, Warp), validated against real sonar data. Co-authored paper at IEEE OCEANS 2026.
+Learning, Control & Hardware Bring-Up (Wolverbot Kickers, RoboCup): Diagnosed and rebuilt a humanoid's broken URDF model; calibrated motor controllers and tuned torque output on the physical robot; now training locomotion policies in Isaac Lab for hardware transfer.
+Navigation & Planning (Michigan Autonomous Robot Vehicle): Fused GNSS, IMU, LiDAR, and camera odometry in ROS2; diagnosed a sensor fusion failure by tuning Kalman filter gains. National Design Report Finalist, IGVC 2025.
+Systems Infrastructure (ROB 320): Designed a custom pub/sub messaging system from scratch in C++17 (a distributed ROS equivalent) running on real robot hardware.
+Medical Devices/Clinical Exposure (UMich Extracorporeal Life Support Lab): Built an embedded C++ temperature control system for a wearable artificial lung prototype; clinical seminars, clinical skills lab, and Anatomy & Physiology coursework.
+Agriculture (ROB 472 course project): Sole software architect for a multi-agent swarm simulation (Python) for autonomous seagrass site identification, coordinating decentralized coverage optimization using real NOAA geospatial data.
+This fall: Robot Controls (ROB 314), SLAM & Navigation (ROB 330), 3D Robot Perception (ROB 498).
+Core Stack: NVIDIA Isaac Sim/Lab · CUDA (custom kernels) · C++17 · Python · ROS/ROS2 · SLAM · Kalman Filtering · PyTorch · MuJoCo · PhysX · Hardware-in-the-Loop Testing · Sensor Calibration & Integration
+Recognition: CRA Outstanding Undergraduate Researcher Honorable Mention (2026, National)
+* Open to Winter/Summer 2027 co-ops and internships applying full-stack robotics to physical AI, medical devices, aerospace, and agriculture.*
 
-Most of my work lives in the gap between simulation and reality. At UMich's Field Robotics Group, I built a GPU-accelerated side-scan sonar simulator in NVIDIA Isaac Sim, modeling complex physics and validating them against real-world datasets (co-authored paper submitted to OCEANS 2026).
-
-Now, I bring these principles to legged robotics and biomedical hardware. As RL Subteam Lead for Wolverbot Kickers, I'm working on humanoid fall-recovery policies in Isaac Lab and rebuilding our simulation stack toward competing at RoboCup.
-
-**Core Tools:** Isaac Sim/Lab · CUDA (Custom Kernels) · C++17 · Python · ROS2 · PyTorch · MuJoCo  
-**Recognition:** CRA Outstanding Undergraduate Researcher Honorable Mention (2026, National)  
-*Open to Late Spring/Summer 2027 internships in robotics, legged locomotion, control, and medical devices.*
 
 ---
 
