@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.org/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nsieh/)
 **Robotics Engineering Student | University of Michigan**
 
-[![Website] (https://nzs2401.github.io/)
+[![Website](https://nzs2401.github.io/)
 
 I'm a Robotics Engineering student at the University of Michigan building full-stack robotics systems, from perception and simulation through control, hardware, and deployment.
 
